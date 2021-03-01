@@ -2,9 +2,7 @@
 ### MERN STACK Developer
 ### Poet
 ### Fingerstyle Guitarist
-### Magician
 ### Fitness Enthusiast
-### Lone Wolf
 
 <!--
 **karansinghnegi/karansinghnegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
